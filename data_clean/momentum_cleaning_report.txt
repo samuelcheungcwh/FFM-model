@@ -1,0 +1,17 @@
+Fama-French Momentum Factor Cleaning Report
+============================================
+Input file: F-F_Momentum_Factor.csv
+Input section extracted: Monthly Mom only
+Annual factor table: excluded
+Research sample: 1963-07 to 2026-09
+First available source month: 1927-01
+Last available source month: 2026-09
+Rows in cleaned sample: 759
+Columns: MOM
+Units: decimal returns (source percentage values divided by 100)
+Risk-free adjustment: none (MOM is a long-short factor return)
+Missing calendar months: 0
+Missing MOM observations after cleaning: 0
+
+Missing calendar months found:
+None

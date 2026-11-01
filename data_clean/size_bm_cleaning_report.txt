@@ -1,0 +1,45 @@
+25 Size-BM Portfolios Cleaning Report
+======================================
+Source file: 25_Portfolios_5x5.csv
+Extracted section: Average Value Weighted Returns -- Monthly
+Portfolio weighting: Value-weighted
+Frequency: Monthly
+Sample requested: 1963-07 to 2026-09
+Actual sample: 1963-07 to 2026-09
+Observations: 759
+Portfolio columns: 25
+Units: Decimal returns (original percentages divided by 100)
+Missing-value codes: -99.99 and -999 converted to NaN
+Missing calendar months in requested sample: 0
+Missing data cells: 0
+
+Missing cells by portfolio:
+SMALL LoBM: 0
+ME1 BM2: 0
+ME1 BM3: 0
+ME1 BM4: 0
+SMALL HiBM: 0
+ME2 BM1: 0
+ME2 BM2: 0
+ME2 BM3: 0
+ME2 BM4: 0
+ME2 BM5: 0
+ME3 BM1: 0
+ME3 BM2: 0
+ME3 BM3: 0
+ME3 BM4: 0
+ME3 BM5: 0
+ME4 BM1: 0
+ME4 BM2: 0
+ME4 BM3: 0
+ME4 BM4: 0
+ME4 BM5: 0
+BIG LoBM: 0
+ME5 BM2: 0
+ME5 BM3: 0
+ME5 BM4: 0
+BIG HiBM: 0
+
+No risk-free-rate adjustment has been made. These are raw portfolio returns.
+Subtract RF later when constructing the excess-return test assets.
+Rows with missing portfolio returns have not been silently dropped.

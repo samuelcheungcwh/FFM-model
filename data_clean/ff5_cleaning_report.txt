@@ -1,0 +1,23 @@
+Fama/French 5 Factors (2x3) cleaning report
+
+Source file: F-F_Research_Data_5_Factors_2x3 2.csv
+Research period: 1963-07 to 2026-09
+Rows in output: 759
+Columns: Mkt-RF, SMB, HML, RMW, CMA, RF
+First month: 1963-07
+Last month: 2026-09
+
+Missing values by column:
+  Mkt-RF: 0
+  SMB: 0
+  HML: 0
+  RMW: 0
+  CMA: 0
+  RF: 0
+
+Months with all six factors missing: 0
+Missing months are retained as NaN; no values are imputed.
+The annual table is excluded.
+RF is retained for later construction of portfolio excess returns.
+All six columns are converted from percentage points to decimal returns.
+Output file: ff5_monthly_factors.csv

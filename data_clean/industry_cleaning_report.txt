@@ -1,0 +1,26 @@
+Industry portfolio monthly value-weighted returns - cleaning report
+Source file: 10_Industry_Portfolios.csv
+Source table: Average Value Weighted Returns -- Monthly
+Sample requested: 1963-07 through 2026-09
+First month in output: 196307
+Last month in output: 202609
+Rows: 759
+Industry columns: 10
+Industries: NoDur, Durbl, Manuf, Enrgy, HiTec, Telcm, Shops, Hlth, Utils, Other
+Units: decimal returns (source percentage values divided by 100)
+Missing-value codes: -99.99 and -999 converted to missing values
+Risk-free rate: not subtracted; these are raw portfolio returns
+Missing calendar months: 0
+Missing months: None
+
+Missing observations by industry:
+NoDur: 0
+Durbl: 0
+Manuf: 0
+Enrgy: 0
+HiTec: 0
+Telcm: 0
+Shops: 0
+Hlth: 0
+Utils: 0
+Other: 0
